@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Arthur"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment 1 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment 2 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment 3 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment 5 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment 6 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment 7 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assignment 8 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Chapter 1 and 2 Exercises - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Chapter 3 Exercise 3.31 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Chapter 3 Exercise 3.4 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Chapter 3 Exercise 3.8 - Nicholas Hyland"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Class Examples"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Nicholas Hyland Android App"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
